@@ -1,0 +1,7 @@
+FRM-30064: Unable to parse statement SELECT DESCRIPTION,ID_CODE
+FROM DOITAC_LIST
+ORDER BY DESCRIPTION.
+ORA-02396: exceeded maximum idle time, please connect again
+Record Group LOV_TEN_DOITAC
+Form: TIM_TTIN_KHACHHANG
+FRM-30085: Unable to adjust form for output.
