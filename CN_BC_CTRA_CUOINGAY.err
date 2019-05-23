@@ -1,0 +1,7 @@
+Compiling procedure PRO_SHOW_LOAITIEN... 
+Compilation error on procedure PRO_SHOW_LOAITIEN:
+PL/SQL ERROR 0 at line 0, column 0
+ORA-01012: not logged on
+
+
+Compilation errors have occurred.
